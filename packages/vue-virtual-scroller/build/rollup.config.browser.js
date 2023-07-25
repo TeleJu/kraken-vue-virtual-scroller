@@ -4,8 +4,8 @@ import { terser } from 'rollup-plugin-terser'
 const config = Object.assign({}, base, {
   output: {
     exports: 'named',
-    name: 'VueVirtualScroller',
-    file: 'dist/vue-virtual-scroller.min.js',
+    name: 'KrakenVueVirtualScroller',
+    file: 'dist/kraken-vue-virtual-scroller.min.js',
     format: 'iife',
     sourcemap: true,
     globals: {

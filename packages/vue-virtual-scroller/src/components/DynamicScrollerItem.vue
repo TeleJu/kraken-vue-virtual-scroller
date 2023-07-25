@@ -199,7 +199,7 @@ export default {
     },
 
     applyWidthHeight (width, height) {
-      const size = ~~(this.vscrollParent.direction === 'vertical' ? height : width)
+      const size = this.vscrollParent.direction === 'vertical' ? height : width
       if (size && this.size !== size) {
         this.applySize(size)
       }

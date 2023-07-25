@@ -1,9 +1,8 @@
 {
   "name": "demo",
-  "description": "Demos for vue-virtual-scroller",
+  "description": "Demos for kraken-vue-virtual-scroller",
   "version": "1.0.0",
-  "author": "Guillaume Chau <guillaume.b.chau@gmail.com>",
-  "private": true,
+  "author": "Julius Nierhaus <nhausp@gmail.com>",
   "scripts": {
     "dev": "vite dev --port 8080",
     "build": "vite build",
@@ -13,7 +12,7 @@
     "@faker-js/faker": "^7.6.0",
     "vue": "^3.2.41",
     "vue-router": "^4.1.5",
-    "vue-virtual-scroller": "workspace:*"
+    "@teleju/kraken-vue-virtual-scroller": "workspace:*"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.2",
