@@ -1,7 +1,7 @@
 {
   "name": "@teleju/kraken-vue-virtual-scroller",
   "description": "Smooth scrolling for any amount of data",
-  "version": "2.0.0-beta.13",
+  "version": "2.0.0-beta.9",
   "author": {
     "name": "Julius Nierhaus / Andrei Liapustin",
     "email": "nhausp@gmail.com"

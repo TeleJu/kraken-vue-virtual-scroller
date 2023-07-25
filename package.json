@@ -1,6 +1,6 @@
 {
   "name": "@teleju/kraken-vue-virtual-scroller-monorepo",
-  "version": "2.0.0-beta.13",
+  "version": "2.0.0-beta.9",
   "scripts": {
     "build": "pnpm run -r --filter=!demo build",
     "release": "pnpm run lint && pnpm run build && sheep release -b master --tag next",
