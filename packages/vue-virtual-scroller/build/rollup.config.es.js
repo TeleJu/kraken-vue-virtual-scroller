@@ -2,8 +2,8 @@ import base from './rollup.config.base'
 
 const config = Object.assign({}, base, {
   output: {
-    name: 'vue-virtual-scroller',
-    file: 'dist/vue-virtual-scroller.esm.js',
+    name: 'vue-swaggy-scroller',
+    file: 'dist/kraken-vue-virtual-scroller.esm.js',
     format: 'es',
     sourcemap: true,
   },

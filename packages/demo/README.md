@@ -1,10 +1,10 @@
-# vue-virtual-scroller-demos
+# kraken-vue-virtual-scroller-demos
 
-> Demos for vue-virtual-scroller
+> Demos for kraken-vue-virtual-scroller
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 yarn install
 
